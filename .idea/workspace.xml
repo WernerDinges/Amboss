@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e0aba69-c17b-48b4-bb08-f6a1ebff5d77" name="Changes" comment="" />
+    <list default="true" id="8e0aba69-c17b-48b4-bb08-f6a1ebff5d77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/examples/Finding Root.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/examples/Finding Root.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/examples/Game Theory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/examples/Game Theory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/examples/Optimization.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/examples/Optimization.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +28,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WernerDinges&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WernerDinges/Amboss.git&quot;,
+    &quot;accountId&quot;: &quot;9e07d610-ff37-4491-8470-8da9e32b708d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2p15utEaXwv85g5AeHblRV3W4dq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +58,7 @@
     &quot;Gradle.Build AmbossMath.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -79,7 +102,8 @@
       <workItem from="1731920971382" duration="642000" />
       <workItem from="1731930370403" duration="8158000" />
       <workItem from="1731944929165" duration="685000" />
-      <workItem from="1731945842821" duration="7432000" />
+      <workItem from="1731945842821" duration="7988000" />
+      <workItem from="1731997974068" duration="2709000" />
     </task>
     <servers />
   </component>
